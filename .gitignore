@@ -1,3 +1,5 @@
 corpuses.tar.gz*
 corpus.db
 /corpus.db.xz
+corpus.db.xz.sha256
+corpus.db.xz

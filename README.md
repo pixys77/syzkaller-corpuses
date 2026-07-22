@@ -1,14 +1,12 @@
-# All corpuses found in open source
+# All corpuses for syzkaller found in open source
 
-#### links.txt                                                                                                                                                                         
+### links.txt                                                                                                                                                                         
 All source links 
 
-## What in corpuses.tar.gz?
-
-### raw-corpus
-All corpuses .db files for syzkaller
+### downloadn-links.sh
+Mini bash script, for download raw-corpuses via wget.
 
 ### corpus.db
-Combined corpuses from raw-corpus
+Combined corpuses from raw corpuses
  
 
